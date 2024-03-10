@@ -1,3 +1,4 @@
+#Biblioteca importada da internet de forma livre , não sei o autor, mas estou deixando claro que não é de minha autoria.
 import numpy as np
 import win32gui
 import win32api
